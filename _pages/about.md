@@ -19,7 +19,7 @@ AI researcher and engineer.
 
 I am a 2nd year student of **MSc Artificial Intelligence** at the **University of Amsterdam**. My interests revolve around geometrical and topological deep learning, with applications to natural sciences and computer vision.
 
-Currently, I am developing a deep learning model for learning latent Riemannian geometry of high-dimensional point clouds under the supervision of [Willem Diepeveen](https://www.maths.cam.ac.uk/person/wd292) (**Cambridge Image Analysis Group, now UCLA**) and [Erik Bekkers](https://ebekkers.github.io/) (**Amsterdam Machine Learning Lab**).
+Currently, I am developing a deep learning model for learning Riemannian geometry of high-dimensional point clouds under the supervision of [Willem Diepeveen](https://www.maths.cam.ac.uk/person/wd292) (**Cambridge Image Analysis Group, now UCLA**) and [Erik Bekkers](https://ebekkers.github.io/) (**Amsterdam Machine Learning Lab**).
 
 My ultimate goal is to make sure that future AI algorithms are
 
