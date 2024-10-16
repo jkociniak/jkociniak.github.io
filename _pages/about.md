@@ -21,9 +21,9 @@ I am a 2nd year student of **MSc Artificial Intelligence** at the **University o
 
 Currently, I am developing a deep learning model for learning Riemannian geometry of high-dimensional point clouds under the supervision of [Willem Diepeveen](https://www.maths.cam.ac.uk/person/wd292) (**Cambridge Image Analysis Group, now UCLA**) and [Erik Bekkers](https://ebekkers.github.io/) (**Amsterdam Machine Learning Lab**).
 
-My ultimate goal is to make sure that future AI algorithms are
+My ultimate goal is to design AI models that are
 
-- leveraging appropriate inductive biases,
+- leveraging geometry and topology in their architecture,
 - theoretically grounded,
 - compute-efficient and sample-efficient.
 
@@ -32,18 +32,16 @@ Besides academia, I worked in data analyst, ML & research roles in multiple star
 I am an experienced Python coder, but I feel comfortable with JavaScript, C, C++, Java and Haskell. In future projects I would like to hone my C/C++ skills and lean into more efficiency-oriented projects. I would also like to learn more about diffusion models and generative approaches in general.
 
 ### My interests
-
 - AI for drug design, computational chemistry and structural biology;
-- AI for natural sciences;
-- AI for computer vision, object tracking, pose estimation;
 - AI for 2D and 3D graphics, videos and animations;
+- AI for computer vision, object tracking, human activity recognition;
 - Analysis of temporal data, with a focus on spatiotemporal data;
 - Analysis of structured data, with a focus on graphs;
-- Geometric & topological deep learning;
 - Unsupervised learning, self-supervised learning;
 - Dimensionality reduction, manifold learning;
-- Expressivity of deep learning models.
-- Multimodal models,
+- Geometric & topological deep learning;
+- Graph neural networks, in particular their expressivity;
+- Physics-based machine learning;
 
 ### Background
 
