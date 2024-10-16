@@ -32,6 +32,7 @@ Besides academia, I worked in data analyst, ML & research roles in multiple star
 I am an experienced Python coder, but I feel comfortable with JavaScript, C, C++, Java and Haskell. In future projects I would like to hone my C/C++ skills and lean into more efficiency-oriented projects. I would also like to learn more about diffusion models and generative approaches in general.
 
 ### My interests
+
 - AI for drug design, computational chemistry and structural biology;
 - AI for 2D and 3D graphics, videos and animations;
 - AI for computer vision, object tracking, human activity recognition;
