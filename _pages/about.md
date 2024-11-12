@@ -54,6 +54,6 @@ In parallel, I finished all coursework for **BSc Mathematics** at the **Universi
 
 During my studies I have worked as a mathematical programmer for the **National Centre for Nuclear Research**, as a part of **Interdisciplinary Division for Energy Analyses**. I'm thankful for the opportunity to assist in research projects and hone my numerical analysis and optimization skills there.
 
-At **SOLVEMED** and **New Security Systems** I gained invaluable experience in building cutting-edge computer vision solutions, including object detection & tracking, pose estimation and video analysis.
+At **SOLVEMED** and **Stealth Startup** I gained invaluable experience in building cutting-edge computer vision solutions, including object detection & tracking, pose estimation and video analysis.
 
 At **Banacha Street** I ran a pilot project aiming for analysis of geofencing data. I extracted and validated device trajectories from raw data, then prepared interactive visualisations for clients.
